@@ -12,8 +12,8 @@
 - ⚡ Fun fact: ###
 
 <a href="https://www.github.com/akshayyadawad" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/akshayyadawad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917&style=for-the-badge" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayyadawad&label=Profile%20views&color=0e75b6&style=flat" alt="akshayyadawad" /> </p>
+src="https://img.shields.io/github/followers/akshayyadawad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshayyadawad&label=Profile%20views&color=0e75b6&style=flat" alt="akshayyadawad&style=for-the-badge" /> </p>
 
 follow & connect with me on my Socials:
 
