@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋 I'm Akshay </h1>
+<h1 align="left"> Hi 👋 I'm Akshay </h1>
 
 <p align="center">
   <a href="https://github.com/akshayyadawad"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;Always+learning+new+things&center=true&width=380&height=45"></a>
