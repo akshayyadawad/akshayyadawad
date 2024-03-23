@@ -1,6 +1,8 @@
-# Hi 👋 I'm Akshay
+<p align="center"> # Hi 👋 I'm Akshay </p>
 
-<a href="https://github.com/akshayyadawad"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;Always+learning+new+things&center=true&width=380&height=45"></a>
+<p align="center">
+  <a href="https://github.com/akshayyadawad"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;Always+learning+new+things&center=true&width=380&height=45"></a>
+</p>
 
 <h4>A Data Analyst</h4>
 
