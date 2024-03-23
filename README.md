@@ -1,5 +1,9 @@
-# Hi there 👋 My name is Akshay Yadawad
+# Hi 👋 I'm Akshay
 <hr></hr>
+
+<p align="center">
+  <a href="https://github.com/akshayyadawad"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;Always+learning+new+things&center=true&width=380&height=45"></a>
+</p>
 
 <h4>A Data Analyst</h4>
 
