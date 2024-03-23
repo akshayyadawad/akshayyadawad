@@ -4,8 +4,6 @@
   <a href="https://github.com/akshayyadawad"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 
-<h4>A Data Analyst</h4>
-
 - 🔭 I’m currently working on a Analytics Project
 - 🌱 I’m Interested to work on Machine Learning | Data Science | Robotics | Artificial Intelligence
 - 👯 I’m making the world better by PRs 
@@ -27,7 +25,7 @@ follow & connect with me on my Socials:
 [![Discord](https://img.shields.io/discord/814191682282717194.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.com/)
 
 <!--
-<img src="https://raw.githubusercontent.com/AhsanAyaz/ahsanayaz/master/public/static/images/meta.png"/>
+<h4>A Data Analyst</h4>
 
 **akshayyadawad/akshayyadawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
