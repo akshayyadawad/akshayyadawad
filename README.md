@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/akshayyadawad"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
+
 - 🔭 I’m currently working on a Analytics Project
 - 🌱 I’m Interested to work on Machine Learning | Data Science | Robotics | Artificial Intelligence
 - 👯 I’m making the world better by PRs 
