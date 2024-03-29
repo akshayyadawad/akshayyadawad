@@ -4,12 +4,12 @@
   <a href="https://github.com/akshayyadawad"><img src="https://readme-typing-svg.herokuapp.com?lines=Self+taught+Data+Analyst;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
 
-- 🔭 I’m currently working on a Analytics Project
-- 🌱 I’m Interested to work on Machine Learning | Data Science | Robotics | Artificial Intelligence
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about ***
-- 📫 How to reach me: akshayyadawad2@gmail.com
-- ⚡ Fun fact: ###
+🔭 I’m currently working on a Analytics Project
+🌱 I’m Interested to work on Machine Learning | Data Science | Robotics | Artificial Intelligence
+👯 I’m making the world better by PRs 
+💬 Ask me about ***
+📫 How to reach me: akshayyadawad2@gmail.com
+⚡ Fun fact: ###
 
 <a href="https://www.github.com/akshayyadawad" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/akshayyadawad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
