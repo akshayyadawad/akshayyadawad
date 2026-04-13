@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on an Analytics Project
-- 🌱 I’m Interested to work on Data Analytics | Data Science | Machine Learning | Artificial Intelligence | Robotics
+- 🌱 I’m Interested to work on Data Analytics | Business Analytics | Data Science | Machine Learning | Artificial Intelligence | Robotics
 - 👯 I’m making the world better by PRs 
 - 💬 Ask me about ***
 - 📫 How to reach me: akshayyadawad2@gmail.com
